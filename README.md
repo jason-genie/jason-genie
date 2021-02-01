@@ -3,8 +3,7 @@
 👯 As a freelancer, I’m looking to collaborate on awesome web apps with awesome dev teams. I'd like to build firm working relationships with winning teams.
 ### 📫 How to reach me: topwebfulldev@gmail.com
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TopWebFullDev&show_icons=true&count_private=false&hide=stars&theme=radical">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://camo.githubusercontent.com/fbf4f4aadb79493225ed43d6daca84015eafa94d496ef07bbf723200e12f923c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" style="max-width:100%;">
 
 <!--
 **TopWebFullDev/TopWebFullDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
