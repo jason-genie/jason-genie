@@ -8,8 +8,9 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1ziFNu-3pS3vnTjouCUBSxA8hKdLnJcVTA&usqp=CAU" width="48" height="48" alt="parrot os logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" alt="javascript logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="48" alt="typescript logo"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" alt="node logo"> <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="48" alt="laravel logo">
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TopWebFullDev&show_icons=true&count_private=false&hide=stars&theme=radical">
 
