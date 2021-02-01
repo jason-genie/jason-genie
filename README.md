@@ -5,7 +5,7 @@
 
 ## Languages and Tools:
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnpPZ9OGyEP-oE9yydjzu_g6G6hM7M5EFqyA&usqp=CAU" width="48" alt="React Logo"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" alt="Python Logo">   <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Git Logo">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03kU4dJIELF0cQ2-3RDOdddELLgszn2inLQ&usqp=CAU" width="48" height="48" alt="React Logo"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" alt="Python Logo">   <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Git Logo">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="48" alt="parrot os logo"> <img src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" width="48" alt="raspberry pi"> <img src="https://img.favpng.com/3/19/9/debian-logo-linux-ubuntu-fedora-png-favpng-gip39mvVQTYmxq8v4csuHbRy3.jpg" width="48" alt="debian">
 
