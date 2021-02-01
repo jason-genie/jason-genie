@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=TopWebFullDev&color=blueviolet)
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=TopWebFullDev&show_icons=true&count_private=false&hide=stars&theme=radical">
 👯 As a freelancer, I’m looking to collaborate on awesome web apps with awesome dev teams. I'd like to build firm working relationships with winning teams.
 
 ## Languages and Tools:
@@ -11,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TopWebFullDev&show_icons=true&count_private=false&hide=stars&theme=radical">
 ### 📫 How to reach me: topwebfulldev@gmail.com
 <!--
 **TopWebFullDev/TopWebFullDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
