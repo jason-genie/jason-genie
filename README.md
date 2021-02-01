@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=TopWebFullDev&color=blueviolet)
 ### Hi there 👋
-👯 As a freelancer, I’m looking to collaborate on awesome web apps with awesome dev teams. I'd like to build firm working relationships with winning teams.
+- 👯 As a freelancer, I’m looking to collaborate on awesome web apps with awesome dev teams.
+- 🤔 I'd like to build firm working relationships with winning teams.
+- 🌱 I’m currently learning python <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" alt="Python Logo"></code>
+- 📫 How to reach me: topwebfulldev@gmail.com
 
 ## Languages and Tools:
 
@@ -15,7 +18,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TopWebFullDev&show_icons=true&count_private=false&hide=stars&theme=radical">
 
 
-### 📫 How to reach me: topwebfulldev@gmail.com
 <!--
 **TopWebFullDev/TopWebFullDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
