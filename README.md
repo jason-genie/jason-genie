@@ -9,7 +9,8 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="48" alt="parrot os logo"> <img src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" width="48" alt="raspberry pi"> <img src="https://img.favpng.com/3/19/9/debian-logo-linux-ubuntu-fedora-png-favpng-gip39mvVQTYmxq8v4csuHbRy3.jpg" width="48" alt="debian">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 How to reach me: topwebfulldev@gmail.com
 <!--
 **TopWebFullDev/TopWebFullDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
