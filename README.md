@@ -7,7 +7,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03kU4dJIELF0cQ2-3RDOdddELLgszn2inLQ&usqp=CAU" width="48" height="48" alt="React Logo"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" alt="Python Logo">   <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Git Logo">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="48" alt="parrot os logo"> <img src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" width="48" alt="raspberry pi"> <img src="https://img.favpng.com/3/19/9/debian-logo-linux-ubuntu-fedora-png-favpng-gip39mvVQTYmxq8v4csuHbRy3.jpg" width="48" alt="debian">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1ziFNu-3pS3vnTjouCUBSxA8hKdLnJcVTA&usqp=CAU" width="48" height="48" alt="parrot os logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" alt="javascript logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" alt="node logo">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
