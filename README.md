@@ -2,7 +2,7 @@
 ### Hi there 👋
 - 👯 As a freelancer, I’m looking to collaborate on awesome web apps with awesome dev teams.
 - 🤔 I'd like to build firm working relationships with winning teams.
-- 🌱 I’m currently learning python <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" alt="Python Logo"></code>
+- 🌱 I'd like to learn python <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" alt="Python Logo"></code>
 - 📫 How to reach me: topwebfulldev@gmail.com
 
 ## Languages and Tools:
@@ -14,7 +14,7 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-## Working with:
+## Learning React with:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ant-design&repo=ant-design)](https://github.com/TopWebFullDev/ant-design)
 
 
