@@ -2,7 +2,7 @@
 ### Hi there 👋
 - 👯 As a freelancer, I’m looking to collaborate on awesome web apps with awesome dev teams.
 - 🤔 I'd like to build firm working relationships with winning teams.
-- 🌱 I'd like to learn python <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" alt="Python Logo"></code>
+- 🌱 I'd like to learn more about python <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" alt="Python Logo"></code>
 - 📫 How to reach me: topwebfulldev@gmail.com
 
 ## Languages and Tools:
