@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=TopWebFullDev&color=blueviolet)
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48" height="48" />
 - 👯 As a freelancer, I’m looking to collaborate on awesome web apps with awesome dev teams.
 - 🤔 I love learning and working, I'd like to build firm working relationships with winning teams.
 - 🌱 I'd like to learn more about python <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" alt="Python Logo"></code>
