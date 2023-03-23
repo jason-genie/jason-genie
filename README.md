@@ -27,8 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=topwebfulldev&show_icons=true&locale=en&layout=compact" alt="topwebfulldev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topwebfulldev&show_icons=true&locale=en" alt="topwebfulldev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topwebfulldev" alt="topwebfulldev" /></p>
 
 ## Currently Working React with:
