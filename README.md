@@ -1,6 +1,6 @@
 ![Cover photo](https://raw.githubusercontent.com/jason-mellan/jason-mellan/main/coverphoto.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I am Jason! <img src="https://github.com/jason-mellan/jason-mellan/assets/77975975/7678f111-7f51-49be-89a7-bb715630859b" width="30" height="30" alt="cryptopunks_1030" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I am Jason! <img src="https://github.com/jason-mellan/jason-mellan/assets/77975975/7678f111-7f51-49be-89a7-bb715630859b" width="50" height="50" alt="cryptopunks_1030" />
  </h1>
 <h3 align="center">The Top, Full-stack Web Engineer: Turning Complex Ideas into Innovative Web Solutions</h3>
 
