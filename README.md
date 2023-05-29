@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jason-mellan&label=Profile%20views&color=0e75b6&style=flat" alt="jason-mellan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jason-mellan" alt="jason-mellan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jason-genie" alt="jason-genie" /></a> </p>
 
 - 👯 I’m looking to collaborate on **awesome web apps with awesome dev teams**
 
