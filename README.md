@@ -6,7 +6,7 @@
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jason-genie" alt="jason-genie" width="500" /></a> </p>
 
-<p align="right">
+<p align="left">
 - 👯 I’m looking to collaborate on **awesome web apps with awesome dev teams**
 
 - 💬 Ask me about **Web**
