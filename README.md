@@ -1,12 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I am Jason!
+![51HdteT4kSL _AC_SL1000_](https://github.com/jason-genie/jason-genie/assets/77975975/1b2f1457-27f8-445e-870f-c1a020166a2c)
+<h1 align="center">Hey, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I am Jason!
 <img src="https://github.com/jason-mellan/jason-mellan/assets/77975975/ecd8338e-47b6-436a-9e48-872bd1fa8f83" width="50" height="50" alt="cryptopunks_1030" />
  </h1>
 <h3 align="center">TechGenie: Your One-Stop Solution for Full-Stack Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jason-mellan&label=Profile%20views&color=0e75b6&style=flat" alt="jason-mellan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jason-genie&label=Profile%20views&color=0e75b6&style=flat" alt="jason-genie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jason-genie" alt="jason-genie" /></a> </p>
-
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 👯 I’m looking to collaborate on **awesome web apps with awesome dev teams**
 
 - 💬 Ask me about **Web**
