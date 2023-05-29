@@ -4,17 +4,15 @@
  </h1>
 <h3 align="center">TechGenie: Your One-Stop Solution for Full-Stack Engineering</h3>
 
-<p align="left">
-- 👯 I’m looking to collaborate on **awesome web apps with awesome dev teams**
-
-- 💬 Ask me about **Web**
-
-- 📫 How to reach me **jason.me.biz@gmail.com**
-
-- 📄 Know about my experiences [https://jason-mellan.netlify.app](https://jason-mellan.netlify.app)
-
-- ⚡ Fun fact **Sorry for lack of contribution to open source. I am still learning.**
-<p>
+<p align="right">
+ <ul>
+  <li> 👯 I’m looking to collaborate on **awesome web apps with awesome dev teams** </li>
+  <li> 💬 Ask me about **Web** </li>
+  <li> 📫 How to reach me **jason.me.biz@gmail.com** </li>
+  <li> 📄 Know about my experiences [https://jason-mellan.netlify.app](https://jason-mellan.netlify.app) </li>
+  <li>⚡ Fun fact **Sorry for lack of contribution to open source. I am still learning.** </li>
+ </ul>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jason-o-mellan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-genie" height="30" width="40" /></a>
