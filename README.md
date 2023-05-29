@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I am Jason!
 <img src="https://github.com/jason-mellan/jason-mellan/assets/77975975/ecd8338e-47b6-436a-9e48-872bd1fa8f83" width="50" height="50" alt="cryptopunks_1030" />
  </h1>
-<h3 align="center">The Top, Full-stack Web Engineer: Turning Complex Ideas into Innovative Web Solutions</h3>
+<h3 align="center">TechGenie: Your One-Stop Solution for Full-Stack Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jason-mellan&label=Profile%20views&color=0e75b6&style=flat" alt="jason-mellan" /> </p>
 
