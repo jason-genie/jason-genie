@@ -13,7 +13,7 @@
   <li>⚡ Fun fact **Sorry for lack of contribution to open source. I am still learning.** </li>
  </ul>
 </p>
-
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
