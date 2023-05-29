@@ -13,15 +13,14 @@
   <li>⚡ Fun fact **Sorry for lack of contribution to open source. I am still learning.** </li>
  </ul>
 </p>
-
-<br><br><br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jason-o-mellan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-genie" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13887219/jason-genie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jason-genie" height="30" width="40" /></a>
 <a href="https://discord.gg/965519524046725180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="965519524046725180" height="30" width="40" /></a>
 </p>
+
+<br><br><br>
 
 <img align="right" src="https://github.com/jason-genie/jason-genie/assets/77975975/9676bcf2-62fa-4611-a5db-89d52790d7e3" width="300" />
 <h3 align="left">Languages and Tools:</h3>
