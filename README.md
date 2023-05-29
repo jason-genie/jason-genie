@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/jason-genie/jason-genie/assets/77975975/1b2f1457-27f8-445e-870f-c1a020166a2c" width="200" />
+<img align="left" src="https://github.com/jason-genie/jason-genie/assets/77975975/1b2f1457-27f8-445e-870f-c1a020166a2c" width="220" />
 <h1 align="center">Hey, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I am Jason!
 <img src="https://github.com/jason-mellan/jason-mellan/assets/77975975/ecd8338e-47b6-436a-9e48-872bd1fa8f83" width="50" height="50" alt="cryptopunks_1030" />
  </h1>
@@ -19,8 +19,6 @@
 <a href="https://stackoverflow.com/users/13887219/jason-genie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jason-genie" height="30" width="40" /></a>
 <a href="https://discord.gg/965519524046725180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="965519524046725180" height="30" width="40" /></a>
 </p>
-
-<br><br><br>
 
 <img align="right" src="https://github.com/jason-genie/jason-genie/assets/77975975/9676bcf2-62fa-4611-a5db-89d52790d7e3" width="300" />
 <h3 align="left">Languages and Tools:</h3>
