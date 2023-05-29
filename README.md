@@ -4,8 +4,6 @@
  </h1>
 <h3 align="center">TechGenie: Your One-Stop Solution for Full-Stack Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jason-genie&label=Profile%20views&color=0e75b6&style=flat" alt="jason-genie" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jason-genie" alt="jason-genie" /></a> </p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 👯 I’m looking to collaborate on **awesome web apps with awesome dev teams**
