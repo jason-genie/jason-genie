@@ -4,7 +4,7 @@
  </h1>
 <h3 align="center">TechGenie: Your One-Stop Solution for Full-Stack Engineering</h3>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jason-genie" alt="jason-genie" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jason-genie" alt="jason-genie" width="500" /></a> </p>
 - 👯 I’m looking to collaborate on **awesome web apps with awesome dev teams**
 
 - 💬 Ask me about **Web**
