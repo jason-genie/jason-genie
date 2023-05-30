@@ -9,7 +9,7 @@
   <li> 👯 I’m looking to collaborate on <b>awesome web apps with awesome dev teams</b> </li>
   <li> 💬 Ask me about <b>Web</b> </li>
   <li> 📫 How to reach me <b>jason.me.biz@gmail.com</b> </li>
-  <li> 📄 Know about my experiences <b>https://jason-mellan.netlify.app</b> </li>
+  <li> 📄 Know about my experiences <b>https://jason-genie.netlify.app</b> </li>
   <li>⚡ Fun fact <b>Sorry for lack of contribution to open source. I am still learning.</b> </li>
  </ul>
 </p>
